@@ -1,0 +1,6 @@
+[submodule "hugo-quickstart/themes/devise"]
+	path = hugo-quickstart/themes/devise
+	url = https://github.com/austingebauer/devise.git
+[submodule "hugo-quickstart/themes/ananke"]
+	path = hugo-quickstart/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
